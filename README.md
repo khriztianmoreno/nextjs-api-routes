@@ -1,6 +1,6 @@
 # Next.js API Routes demo 🚀
 
-Hi there! This is a playground repo to test out [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction). You can see a live demo of the examples at https://netlify-lamda-function.netlify.com.
+Hi there! This is a playground repo to test out [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction). You can see a live demo of the examples at https://nextjs-api-routes-eta.vercel.app/.
 
 ## Table of Contents
 
